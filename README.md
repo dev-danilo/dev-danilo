@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://dev-danilo.netlify.app/">
+  <!-- <a href="https://dev-danilo.netlify.app/"> -->
+  <a href="https://github.com/dev-danilo">
     <img src="https://i.ibb.co/F0jv80D/cover.png" alt="cover" title="Danilo Pereira" border="0">
   </a>
 </p>
