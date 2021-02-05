@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dev-danilo.netlify.app/">
-    <img src="https://res.cloudinary.com/danilopereira/image/upload/v1612486409/dev-danilo-spa/Desktop_-_1_bmblws.svg" alt="cover" title="Danilo Pereira" border="0">
+    <img src="https://i.ibb.co/JCRSZYQ/cover.png" alt="cover" title="Danilo Pereira" border="0">
   </a>
 </p>
 
