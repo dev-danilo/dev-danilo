@@ -24,7 +24,7 @@ About me:
 - ✊🏻 I try to collaborate on social impact projects
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything, but know that I'm passionate about technology
-- 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/danilopx), [My Portfolio](https://dev-danilo.netlify.app/), [My E-mail](devdanilopereira@gmail.com)
+- 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/danilopx), [My Portfolio](https://dev-danilo.netlify.app/), [My E-mail](mailto:devdanilopereira@gmail.com?subject=Olá,%20vim%20do%20teu%20site)
 - ⚡ Curiosity: I always try to learn something new, I am curious by nature and I always work to face all the challenges that lie ahead.
 
 ---
