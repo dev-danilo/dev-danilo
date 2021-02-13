@@ -9,7 +9,7 @@
 
 *Graduated in Information Systems and Administration at UFU and UNIFUCAMP, respectively. I am a Frontend programmer and a student of Backend programming. I have a great passion for Adaptavitos and Intelligent Systems, Human-Computer Interaction, Web Systems and Interactive Multimedia. ❤️❤️*
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-danilo&show_icons=true&hide_border=true)
+##![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-danilo&show_icons=true&hide_border=true)
 
 Things I like to do:
 
