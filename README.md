@@ -12,7 +12,7 @@ Graduated in Information Systems and Administration at UFU and UNIFUCAMP, respec
 <p>📫 How to reach me? <a href="https://www.danilowebcode.com">https://www.danilowebcode.com</a></p>
 
 ## 💻 Skills
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
