@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Danilo Pereira
 
-<img width="100%" src="https://res.cloudinary.com/danilopereira/image/upload/v1612486409/dev-danilo-spa/Desktop_-_1_bmblws.svg" alt="my banner">
+<img width="100%" src="https://res.cloudinary.com/danilopereira/image/upload/v1661881507/dev-danilo-spa/Desktop_-_1_bmblws_jnkozl.svg" alt="my banner">
 
 
 Graduated in Information Systems and Administration at UFU and UNIFUCAMP, respectively. I am a Frontend programmer and a student of Backend programming.
