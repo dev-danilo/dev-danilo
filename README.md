@@ -24,7 +24,7 @@ Graduated in Information Systems and Administration at UFU and UNIFUCAMP, respec
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/danilopx/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="danilopx1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="mailto:danilopx1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 📊 Github Status
